@@ -12,5 +12,6 @@ ____
 
 Status
 Day 1: Enviroment Set up, Initalised Foundry Project
+Day 2: Learnt addresses, transactions, gas fees, nounces, blocks
 
 
